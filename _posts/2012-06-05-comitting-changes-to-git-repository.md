@@ -50,7 +50,11 @@ If you delete any files, you will need to add '-A' in the end of the command lin
 		$ git add . -A
 		# There are files deleted
 
-Commit changes to repository
+Commit changes
+
+		$ git commit -m 'commit comments'
+
+Push changes to repository
 
 		$ git push origin master
 
