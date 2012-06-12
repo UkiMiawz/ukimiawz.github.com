@@ -2,7 +2,7 @@
 layout: post
 title: "Git Jekyll Commands"
 description: "Git Jekyll usefull commands list"
-category: Jekyll, Github
+category: Jekyll
 tags: [Jekyll, Command, Github]
 ---
 {% include JB/setup %}
