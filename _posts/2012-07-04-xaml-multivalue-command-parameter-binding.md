@@ -51,7 +51,7 @@ We won't need to convert it back, but the 'IMultiValueConverter' won't let us de
 
 Put the 'Converter' namespace into the xaml file
 
-	xmlns:converter="clr-namespace:Softrock.SSHM.DesktopUI.Converter"
+	xmlns:converter="clr-namespace:Converter"
 
 And we'll put our multivalue converter as a windows resource
 
