@@ -7,7 +7,7 @@ tags: [.Net, WPF, MVVM]
 ---
 {% include JB/setup %}
 
-Supposed that we have these 'enumerations'
+Supposed that we have these `enumerations`
 
 	''' <summary>
     ''' Type of animal
@@ -33,9 +33,9 @@ We can just add the descriptions in the enumerations like this
 
 And to read it, we will create a function to read the description in the tag.
 
-'Credits : http://www.vbforums.com/showthread.php?t=550710'
+`Credits : http://www.vbforums.com/showthread.php?t=550710`
 
-This function will gets the 'Description' attribute of an enum constant, if any. Otherwise it gets the string name of the enum member.
+This function will gets the `Description` attribute of an enum constant, if any. Otherwise it gets the string name of the enum member.
 
 
             Public Shared Function GetEnumDescription(ByVal EnumConstant As [Enum]) As String

@@ -7,7 +7,7 @@ tags: [.Net, WPF, MVVM]
 ---
 {% include JB/setup %}
 
-Supposed that we have these 'enumerations'
+Supposed that we have these `enumerations`
 
 	Namespace AnimalsEnumerations
 
@@ -28,7 +28,7 @@ And we want to bind it to a combobox. We have this combobox
 
 Now we want to bind the animals enumerations into the combo box. The idea is to put it into windows resource and bind it to the combobox as a static resource.
 
-First of all, let's give the enumerations a namespace, supposed we call it 'Animals'
+First of all, let's give the enumerations a namespace, supposed we call it `Animals`
 
 Then, we have to include the enumerations class namespace 
 
@@ -39,7 +39,7 @@ Put the window resources tag
 	<Window.Resources>
 	</Window.Resources>
 
-Put the enumerations inside as 'ObjectDataProvider'
+Put the enumerations inside as `ObjectDataProvider`
 
 	<Window.Resources>
 
@@ -54,7 +54,7 @@ Put the enumerations inside as 'ObjectDataProvider'
 
 	</Window.Resources>
 
-You might realized that there are some weird functions we're calling there, GetSortedEnumNames and GetEnumValues. We will get it to get the enum values and sorted it before binding the values to the combo box
+You might realized that there are some weird functions we're calling there, `GetSortedEnumNames` and `GetEnumValues`. We will get it to get the enum values and sorted it before binding the values to the combo box
 
 	Namespace Utility
 
