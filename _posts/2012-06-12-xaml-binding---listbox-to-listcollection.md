@@ -27,7 +27,7 @@ For example :
 
 	21 June 2012 : Here is testing entry
 
-##The Code
+##The Code Chunks
 
 Therefore, we're going to use ItemTemplate and DataTemplate for the binding
 
@@ -65,9 +65,11 @@ Put it as ItemTemplate
 	            <Label Content="{Binding Path=.ChildStringProperty}"></Label>
 	        </StackPanel>
 	    </DataTemplate>
-	</ListBox.ItemTemplate>
+	i</ListBox.ItemTemplate>
 
 Put the ItemTemplate to ListBox, bind the parent into `ItemsSource` and we're done!!
+
+##The Final Code
 
 	<ListBox ItemsSource="{Binding ParentClass.ChildList}" Height="100" Width="370" HorizontalAlignment="Stretch" ClipToBounds="True">
 	    <ListBox.ItemTemplate>
