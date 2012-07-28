@@ -9,7 +9,7 @@ tags: [.Net, WPF, MVVM]
 
 This is what a common command parameter looks like. A button with a command parameter.
 
-<Button Content="Close" Command="{Binding Path=CloseCommand}" CommandParameter="{Binding SomeValue}" Height="25" Name="ButtonCancel" Width="75" />
+	<Button Content="Close" Command="{Binding Path=CloseCommand}" CommandParameter="{Binding SomeValue}" Height="25" Name="ButtonCancel" Width="75" />
 
 With the default command parameter, we can only assign one value as a command parameter. Supposed that we want to assign more than one value to the command, a multi binding command parameter.
 
