@@ -45,3 +45,4 @@ For the reason, I put some owl as `mascot` since I think it's pretty much like T
 <div style="clear:both; float:none"></div>
 <img style="float:left; margin-right:20px" width="350" height="202" src="/img/Tilambuku/purple-back.jpg" alt="Tilambuku" />
 <img style="float:left; margin-right:20px" width="350" height="202" src="/img/Tilambuku/purple-front.jpg" alt="Tilambuku" />
+<div style="clear:both; float:none"></div>
