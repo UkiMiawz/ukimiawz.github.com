@@ -25,21 +25,21 @@ For the reason, I put some owl as `mascot` since I think it's pretty much like T
 
 ## 1 side design
 
-<img style="float:left" src="/img/Tilambuku/blue-1side.jpg" alt="Tilambuku" />
-<img style="float:left" src="/img/Tilambuku/green-1side.jpg" alt="Tilambuku" />
-<img style="float:left" src="/img/Tilambuku/pink-1side.jpg" alt="Tilambuku" />
-<img style="float:left" src="/img/Tilambuku/purple-1side.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/blue-1side.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/green-1side.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/pink-1side.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/purple-1side.jpg" alt="Tilambuku" />
 
 ## 2 side design
 
-<img style="float:left" src="/img/Tilambuku/blue-back.jpg" alt="Tilambuku" />
-<img style="float:left" src="/img/Tilambuku/blue-front.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/blue-back.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/blue-front.jpg" alt="Tilambuku" />
 
-<img style="float:left" src="/img/Tilambuku/green-back.jpg" alt="Tilambuku" />
-<img style="float:left" src="/img/Tilambuku/green-front.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/green-back.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/green-front.jpg" alt="Tilambuku" />
 
-<img style="float:left" src="/img/Tilambuku/pink-back.jpg" alt="Tilambuku" />
-<img style="float:left" src="/img/Tilambuku/pink-front.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/pink-back.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/pink-front.jpg" alt="Tilambuku" />
 
-<img style="float:left" src="/img/Tilambuku/purple-back.jpg" alt="Tilambuku" />
-<img style="float:left" src="/img/Tilambuku/purple-front.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/purple-back.jpg" alt="Tilambuku" />
+<img style="float:left" width="200" height="117" src="/img/Tilambuku/purple-front.jpg" alt="Tilambuku" />
