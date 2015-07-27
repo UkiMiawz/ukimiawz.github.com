@@ -9,7 +9,7 @@ tags: [SCRUM, Methodology]
 
 ## What is SCRUM
 
-The hype of software industry. Everybody uses it, every interviewer expects you to know about it yet nobody really masters it. And it involves a lot of neccessary meetings.
+The hype of software industry. Everybody uses it, every interviewer expects you to know about it, you'll get thrown out of the cool kid club if you don't know aboout it. Yet, nobody really masters it (or is it?). And it involves a lot of neccessary meetings.
 
 ## The Video
 
