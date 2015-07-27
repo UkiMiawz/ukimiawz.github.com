@@ -22,3 +22,6 @@ Know hard to remember and sounds intelligence jargons like :
 		- JavaScript
 		- MongoDB
 		- NodeJS
+		- Scala
+		- SQL
+		- Python
