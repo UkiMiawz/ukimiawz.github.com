@@ -17,20 +17,24 @@ Converting from UTC to a specific timezone is simple, you can use `.withZone`. S
 
 {% highlight scala %}
 
-	def convertUtcToTimeZone(dateTime: DateTime, timeZone: String) =
-    	Try(dateTime.withZone(DateTimeZone.forID(timeZone))) getOrElse dateTime.withZone(DateTimeZone.forID("Etc/UTC"))
-    	
+def convertUtcToTimeZone(dateTime: DateTime, timeZone: String) =
+	Try(dateTime.withZone(DateTimeZone.forID(timeZone))) getOrElse dateTime.withZone(DateTimeZone.forID("Etc/UTC"))
+
 {% endhighlight %}
 
 The real bussiness is on converting from local TimeZone to UTC. I need to parse the passed DateTime which timestamp is on UTC to date time with local timezone stamp. I used `LocalDateTime` for the purpose. It changed the date time timezone stamp without changing the value. I was using `.convertLocalToUTC` before but its not consistent.
 
 So, here's the meat. And my usual crappy error handling
 
-	def convertTimeZoneToUtc(dateTime: DateTime, timeZone: String) = {
-	    Try {
-	      val zone = DateTimeZone.forID(timeZone)
-	      val localDateTime = new LocalDateTime(dateTime).toDateTime(zone)
-	      localDateTime.withZone(DateTimeZone.UTC)
-	    } getOrElse dateTime
-	}
+{% highlight scala %}
+
+def convertTimeZoneToUtc(dateTime: DateTime, timeZone: String) = {
+    Try {
+      val zone = DateTimeZone.forID(timeZone)
+      val localDateTime = new LocalDateTime(dateTime).toDateTime(zone)
+      localDateTime.withZone(DateTimeZone.UTC)
+    } getOrElse dateTime
+}
+	
+{% endhighlight %}
 
