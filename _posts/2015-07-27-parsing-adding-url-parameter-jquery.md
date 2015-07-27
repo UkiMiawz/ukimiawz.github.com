@@ -2,8 +2,8 @@
 layout: post
 title: "Parsing and adding URL parameters with JQuery"
 description: "simple explanation to kanban"
-category: Methodology
-tags: [Kanban, Methodology]
+category: Javascript
+tags: [Javascript, URL Parse]
 ---
 {% include JB/setup %}
 
