@@ -16,7 +16,7 @@ So, I have to get all the parameters attached, do some value checking on them, a
 
 This is the method that I use to extract parameters from URL and turned them into array.
 
-{% highlight javascript %}
+{% highlight scala %}
 
 function getURLParameters(url){
 
@@ -37,7 +37,7 @@ function getURLParameters(url){
 
 And here's how I use it to process my URL
 
-{% highlight javascript %}
+{% highlight scala %}
 
 var url = document.createElement('a');
 url.href = currentUrl;
