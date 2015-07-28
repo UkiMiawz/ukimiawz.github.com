@@ -25,3 +25,4 @@ Know hard to remember and sounds intelligence jargons like :
 		- Scala
 		- SQL
 		- Python
+		- SQL
