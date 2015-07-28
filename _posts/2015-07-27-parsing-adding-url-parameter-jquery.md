@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parsing and adding URL parameters with JQuery"
+title: "Parsing and adding URL parameters with Javascript"
 description: "simple explanation to kanban"
 category: Javascript
 tags: [Javascript, URL Parse]

@@ -15,7 +15,7 @@ It is a way to get things done.
 
 I found this perfect simple explanation to Kanban in Youtube
 
-{% youtube R8dYLbJiTUE %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R8dYLbJiTUE" frameborder="0" allowfullscreen></iframe>
 
 
 

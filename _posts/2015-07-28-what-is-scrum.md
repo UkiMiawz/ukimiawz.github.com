@@ -15,4 +15,4 @@ The hype of software industry. Everybody uses it, every interviewer expects you 
 
 This explanation of SCRUM in Youtube is perfect for those who only got 10 minutes to prepare for their job interview
 
-{% youtube XU0llRltyFM %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XU0llRltyFM" frameborder="0" allowfullscreen></iframe>
